@@ -1,0 +1,53 @@
+header {
+    background-color: black;
+}
+
+h1 {
+    color: white;
+    text-align: center;
+    margin: 0px;
+    padding: 20px;
+    margin-bottom: 20px;
+    font-size: 28px;
+}
+
+h2 {
+    font-size: 22px;
+}
+
+body {
+    padding: 0px;
+    margin: 0px;
+    font-family: "Times New Roman";
+    font-size: 20px;
+    line-height: 169%;
+    color: black:
+    background-color: wheat;
+}
+
+a {
+    color: red;
+}
+
+.container {
+    width: 1000px;
+    margin: 0 auto;
+}
+
+#main-bio, #contact-info, #bio-image {
+    float: left;
+}
+
+#bio-image {
+    width: 200px;
+    height: 200px;
+    margin-right: 20px;
+}
+
+#main-bio {
+    width: 69%
+}
+
+#contact-info {
+    width:31%
+}
